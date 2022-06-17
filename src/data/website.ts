@@ -7,6 +7,11 @@
 
 const websiteIconApis = [
   {
+id: '2c246ed9c0c04dc0ace396872f123456',
+name: '云搜道API',
+url: 'https://www.isosou.cn/ico/?url=',
+},
+  {
     id: '2c246ed9c0c04dc0ace396872f22ce36',
     name: '松鼠API',
     url: 'https://api.szfx.top/ico/?url=',
