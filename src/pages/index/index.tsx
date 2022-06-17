@@ -183,7 +183,7 @@ const IndexPage: React.FC<PageProps> = (props) => {
       <div className="index-content-box flex-grow">
         <Sites />
       </div>
-      <div className="index-copyright-box flex-grow max-h-8 text-center leading-8">
+      <div className="index-copyright-box flex-grow text-center leading-8">
         <Copyright />
       </div>
       <NavDrawer open={navOpen} onClose={() => setNavOpen(false)} />
