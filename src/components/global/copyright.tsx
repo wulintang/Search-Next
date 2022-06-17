@@ -31,14 +31,27 @@ const Copyright: React.FC = () => {
     getCopyright();
   }, []);
 
-  return (
-    <a
-      className="copyright inline-block text-sm text-gray-300 hover:text-gray-200 font-mono backdrop-filter backdrop-blur-sm rounded"
-      href={copyright.href}
-    >
-      ©{copyright.startTime}-{endTime} by {copyright.author}. All rights
-      reserved.
-    </a>
+return (
+<div className="copyright banquan inline-block text-sm text-gray-300 hover:text-gray-200 font-mono backdrop-filter backdrop-blur-sm rounded">
+  <p>
+    <img src="/mabai.png"/>
+    <img src="/hanzuwang.png"/></p>
+  <p>
+    <a target="_blank" rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32061202001219">苏公网安备32061202001219号</a>、
+    <a href="http://beian.miit.gov.cn/" target="_blank">苏ICP备2021008246号-19</a></p>
+  <p>©{copyright.startTime}-{endTime}
+    <a href={copyright.href}>{copyright.author}</a>版权所有</p>
+  <p>本站由
+    <a target="_blank" rel="nofollow" href="http://www.ccwadj.cn/">云之道数据</a>提供云计算服务</p>
+  <p>
+    <a target="_blank" rel="nofollow" href="https://www.wulintang.xin/new/202107081.shtml">
+      <img src="https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/yun/yun.png" /></a>
+  </p>
+  <p>
+    <a target="_blank" title="51la网站统计" href="https://v6.51.la/land/JfZgAjaA6gGu2lST">
+      <img src="https://sdk.51.la/icon/1-4.png" /></a>
+  </p>
+</div>
   );
 };
 
