@@ -6,3 +6,6 @@
 .ant-image-mask-info > span {
   vertical-align: middle;
 }
+.index-copyright-box {max-height: 100%!important;}
+.banquan {text-align: -webkit-center!important;}
+.banquan p {line-height: 2rem!important;}
