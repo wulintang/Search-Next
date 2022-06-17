@@ -22,12 +22,12 @@ export interface mainDataTypes {
 
 export default {
   id: 'e9ca43ccf6214f61a7b1bcb2f0dd4858',
-  author: 'Vir',
-  href: 'https://search.virs.xyz',
+  author: '南通伍林堂文化传播有限公司',
+  href: 'https://www.wulintang.cn',
   version: '0.1',
   copyright: {
-    startTime: '2018',
-    href: 'https://search.virs.xyz',
-    author: 'Vir',
+    startTime: '2007',
+    href: 'https://www.wulintang.cn',
+    author: '南通伍林堂文化传播有限公司',
   },
 };
