@@ -8,7 +8,7 @@ import axios from 'axios';
 
 //axios默认配置
 const instance = axios.create({
-  baseURL: 'https://m.snsou.cn',
+  baseURL: 'https://api.isosou.cn',
   timeout: 10000,
   validateStatus: (status: number) => status >= 200 && status <= 500,
 });
