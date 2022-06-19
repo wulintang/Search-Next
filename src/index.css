@@ -1,15 +1,4 @@
 @import url('./antd-global.css');
-
-body {
-  margin: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-    monospace;
-}
-
 html {
   box-sizing: border-box;
   scrollbar-width: thin;
