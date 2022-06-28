@@ -40,7 +40,7 @@ return (
     <a target="_blank" rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32061202001219">苏公网安备32061202001219号</a>、
     <a href="http://beian.miit.gov.cn/" target="_blank">苏ICP备2021008246号-19</a></p>
   <p>©{copyright.startTime}-{endTime}
-    <a href={copyright.href}>{copyright.author}</a>版权所有</p>
+    <a href={copyright.href} target="_blank">{copyright.author}</a>版权所有</p>
   <p>本站由
     <a target="_blank" rel="nofollow" href="http://www.ccwadj.cn/">云之道数据</a>提供云计算服务</p>
   <p>
