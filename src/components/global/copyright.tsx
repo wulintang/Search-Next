@@ -32,7 +32,7 @@ const Copyright: React.FC = () => {
   }, []);
 
 return (
-<div className="copyright banquan inline-block text-sm text-gray-300 hover:text-gray-200 font-mono backdrop-filter backdrop-blur-sm rounded">
+<div className="copyright banquan inline-block text-sm text-gray-300 rounded">
   <p>
     <img src="/mabai.png"/>
     <img src="/hanzuwang.png"/></p>
