@@ -158,7 +158,7 @@ const SettingPage: React.FC<SettingPageProps> = ({
           ))}
         </Breadcrumbs>
         <div className="flex-grow overflow-y-auto w-full">
-          <div className="max-w-4xl">
+          <div>
             <Outlet />
           </div>
         </div>
