@@ -99,7 +99,7 @@ const SettingPage: React.FC<SettingPageProps> = ({
             </IconButton>
           </Tooltip>
         </div>
-        <div className="flex flex-col gap-1 my-4">
+        <div className="wulintang flex flex-col gap-1 my-4">
           {menuList?.map((i) => (
             <div
               key={i.path}
