@@ -162,7 +162,7 @@ const SettingPage: React.FC<SettingPageProps> = ({
             <Outlet />
           </div>
         </div>
-        <div className="text-center max-w-4xl">
+        <div className="text-center">
           <Copyright />
         </div>
       </div>
