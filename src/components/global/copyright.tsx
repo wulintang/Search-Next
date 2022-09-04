@@ -32,6 +32,7 @@ const Copyright: React.FC = () => {
   }, []);
 
 return (
+<div>
 <div className="copyright banquan inline-block text-sm text-gray-300 rounded">
   <p>
     <img src="/mabai.png"/>
@@ -49,7 +50,7 @@ return (
   <p>
     <a target="_blank" title="51la网站统计" href="https://v6.51.la/land/JfZgAjaA6gGu2lST">
       <img src="https://sdk.51.la/icon/1-4.png" /></a></p>
-</div>
+</div></div>
   );
 };
 
