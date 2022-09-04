@@ -44,14 +44,11 @@ return (
     <a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备2021008246号-19</a></p>
   <p>©{copyright.startTime}-{endTime}
     <a href={copyright.href} target="_blank">{copyright.author}</a>版权所有</p>
-
     <a target="_blank" rel="nofollow" href="https://www.wulintang.xin/new/202107081.shtml">
-      <img src="https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/yun/yun.png" /></a>
-  </p>
+      <img src="https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/yun/yun.png" /></a></p>
   <p>
     <a target="_blank" title="51la网站统计" href="https://v6.51.la/land/JfZgAjaA6gGu2lST">
-      <img src="https://sdk.51.la/icon/1-4.png" /></a>
-  </p>
+      <img src="https://sdk.51.la/icon/1-4.png" /></a></p>
 </div>
   );
 };
