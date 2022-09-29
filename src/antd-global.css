@@ -11,3 +11,7 @@
 .banquan p {line-height: 2rem!important;}
 .font-mono {font-family: OPPO-OS!important;}
 .wulintang {padding-left: 20%!important;}
+.friendlink {margin-bottom:30px;padding:25px 30px 20px;float:left;text-align:left;margin-left: 3%;margin-right:3%}
+.friendlink h3 {float:left;display:inline;font-size:14px;line-height:20px}
+.friendlink ul {padding-left:70px;line-height:22px;}
+.friendlink ul li {margin:0 0 5px 0;padding:0 10px;display:inline-block;vertical-align:top;}
