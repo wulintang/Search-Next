@@ -64,7 +64,7 @@ export default defineConfig({
     open: false,
     proxy: {
       '/v1': {
-        target: 'https://api.search.virs.xyz/',
+        target: 'https://api.snsou.cn/',
         changeOrigin: true,
       },
     },
