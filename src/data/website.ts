@@ -9,7 +9,7 @@ const websiteIconApis = [
   {
 id: '2c246ed9c0c04dc0ace396872f123456',
 name: '云搜道API',
-url: 'https://www.isosou.cn/ico/?url=',
+url: 'https://cdn.wulintang.cn/ico/?url=',
 },
   {
     id: '2c246ed9c0c04dc0ace396872f22ce36',
